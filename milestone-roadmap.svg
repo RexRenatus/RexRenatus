@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 700" width="1280" height="700">
+  <rect width="1280" height="700" fill="#1a1a2e"/>
+
+  <text x="60" y="60" font-family="Inter, 'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#d4af37" letter-spacing="6">— M I L E S T O N E   R O A D M A P —</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#a8a4b8">Quarterly checkpoints — parallel-study cadence, May 2026 → December 2028.</text>
+  <line x1="60" y1="100" x2="1220" y2="100" stroke="#d4af37" stroke-width="0.7" opacity="0.45"/>
+
+  <!-- Column header -->
+  <g transform="translate(40 120)">
+    <rect width="1200" height="44" rx="6" fill="#2a2348"/>
+    <text x="40"   y="29" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#d4af37" letter-spacing="2">QUARTER</text>
+    <text x="300"  y="29" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#d4af37" letter-spacing="2">SPANISH</text>
+    <text x="540"  y="29" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#d4af37" letter-spacing="2">JAPANESE</text>
+    <text x="800"  y="29" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#d4af37" letter-spacing="2">CHINESE</text>
+    <text x="1040" y="29" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#d4af37" letter-spacing="2">KOREAN</text>
+  </g>
+
+  <!-- Rows -->
+  <g font-family="Inter, sans-serif" font-size="15" fill="#f0e6d3">
+
+    <g transform="translate(40 174)">
+      <rect width="1200" height="44" rx="4" fill="#1f1f38"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q3 2026</text>
+      <text x="300"  y="29">A2 → B1.1</text>
+      <text x="540"  y="29">A2 → A2+</text>
+      <text x="800"  y="29">A1 → A2</text>
+      <text x="1040" y="29">A1 → A2</text>
+    </g>
+    <g transform="translate(40 222)">
+      <rect width="1200" height="44" rx="4" fill="#1c1c34"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q4 2026</text>
+      <text x="300"  y="29">B1.1 → B1.2</text>
+      <text x="540"  y="29">A2+ → B1</text>
+      <text x="800"  y="29">A2 → A2+</text>
+      <text x="1040" y="29">A2 → A2+</text>
+    </g>
+    <g transform="translate(40 270)">
+      <rect width="1200" height="44" rx="4" fill="#1f1f38"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q1 2027</text>
+      <text x="300"  y="29">B1.2</text>
+      <text x="540"  y="29">B1</text>
+      <text x="800"  y="29">B1</text>
+      <text x="1040" y="29">B1</text>
+    </g>
+    <g transform="translate(40 318)">
+      <rect width="1200" height="44" rx="4" fill="#1c1c34"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q2 2027</text>
+      <text x="300"  y="29">B1+</text>
+      <text x="540"  y="29">B1+</text>
+      <text x="800"  y="29">B1+</text>
+      <text x="1040" y="29">B1+</text>
+    </g>
+    <g transform="translate(40 366)">
+      <rect width="1200" height="44" rx="4" fill="#1f1f38"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q3 2027</text>
+      <text x="300"  y="29">B2.1</text>
+      <text x="540"  y="29">B2.1</text>
+      <text x="800"  y="29">B2.1</text>
+      <text x="1040" y="29">B2.1</text>
+    </g>
+    <g transform="translate(40 414)">
+      <rect width="1200" height="44" rx="4" fill="#1c1c34"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q4 2027</text>
+      <text x="300"  y="29">B2.2</text>
+      <text x="540"  y="29">B2.2</text>
+      <text x="800"  y="29">B2.2</text>
+      <text x="1040" y="29">B2.2</text>
+    </g>
+    <g transform="translate(40 462)">
+      <rect width="1200" height="44" rx="4" fill="#1f1f38"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q1 2028</text>
+      <text x="300"  y="29">B2+</text>
+      <text x="540"  y="29">B2+</text>
+      <text x="800"  y="29">B2+</text>
+      <text x="1040" y="29">B2+</text>
+    </g>
+    <g transform="translate(40 510)">
+      <rect width="1200" height="44" rx="4" fill="#1c1c34"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q2 2028</text>
+      <text x="300"  y="29">C1.1</text>
+      <text x="540"  y="29">C1.1</text>
+      <text x="800"  y="29">C1.1</text>
+      <text x="1040" y="29">C1.1</text>
+    </g>
+    <g transform="translate(40 558)">
+      <rect width="1200" height="44" rx="4" fill="#1f1f38"/>
+      <text x="40"   y="29" fill="#c9b037" font-weight="700">Q3 2028</text>
+      <text x="300"  y="29">C1.2</text>
+      <text x="540"  y="29">C1.2</text>
+      <text x="800"  y="29">C1.2</text>
+      <text x="1040" y="29">C1.2</text>
+    </g>
+    <!-- Goal row highlighted -->
+    <g transform="translate(40 606)">
+      <rect width="1200" height="50" rx="6" fill="#1a2e26" stroke="#4ec27e" stroke-width="1.5"/>
+      <rect width="4" height="50" rx="2" fill="#4ec27e"/>
+      <text x="40"   y="32" fill="#b6e6c8" font-weight="700">Q4 2028</text>
+      <text x="300"  y="32" fill="#d4af37" font-weight="800">C1 ✓</text>
+      <text x="540"  y="32" fill="#d4af37" font-weight="800">C1 ✓</text>
+      <text x="800"  y="32" fill="#d4af37" font-weight="800">C1 ✓</text>
+      <text x="1040" y="32" fill="#d4af37" font-weight="800">C1 ✓</text>
+    </g>
+  </g>
+</svg>

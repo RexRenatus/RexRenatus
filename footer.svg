@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 100" width="1280" height="100">
+  <defs>
+    <linearGradient id="footline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1a2e" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#c9b037"/>
+      <stop offset="70%" stop-color="#c9b037"/>
+      <stop offset="100%" stop-color="#1a1a2e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="100" fill="#1a1a2e"/>
+  <rect x="0" y="20" width="1280" height="2" fill="url(#footline)" opacity="0.7"/>
+  <text x="640" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#c9b037" letter-spacing="2">Restauratio Regni</text>
+  <text x="640" y="84" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="#a8a4b8" letter-spacing="3">PURSUING C1 BY DECEMBER 2028</text>
+</svg>
