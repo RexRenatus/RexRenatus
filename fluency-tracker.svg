@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="1280" height="480">
-  <rect width="1280" height="480" fill="#1a1a2e"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 510" width="1280" height="510">
+  <rect width="1280" height="510" fill="#1a1a2e"/>
 
   <text x="60" y="60" font-family="Inter, 'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#d4af37" letter-spacing="6">— F L U E N C Y   T R A C K E R —</text>
   <text x="60" y="86" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#a8a4b8">Current level → target level. Updated quarterly.</text>
@@ -55,6 +55,18 @@
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
     <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Korean 🇰🇷</text>
+    <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
+    <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
+    <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>
+    <rect x="580" y="22" width="50" height="16" rx="8" fill="#d4af37"/>
+    <text x="1110" y="36" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#d4af37">10%</text>
+  </g>
+
+  <!-- French -->
+  <g transform="translate(40 437)">
+    <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
+    <rect width="4" height="58" rx="2" fill="#d4af37"/>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">French 🇫🇷</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>

@@ -18,8 +18,8 @@
   <text x="640" y="135" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#d4af37" letter-spacing="10">REX RENATUS</text>
   <rect x="380" y="155" width="520" height="2" fill="url(#goldline)"/>
 
-  <text x="640" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#f0e6d3">Polyglot in training — Spanish · Japanese · Chinese · Korean</text>
-  <text x="640" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#c9b037">Target: <tspan font-weight="700" fill="#d4af37">CEFR C1</tspan> in all four by <tspan font-weight="700" fill="#d4af37">December 2028</tspan></text>
+  <text x="640" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-style="italic" fill="#f0e6d3">Polyglot in training — Spanish · Japanese · Chinese · Korean · French</text>
+  <text x="640" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#c9b037">Target: <tspan font-weight="700" fill="#d4af37">CEFR C1</tspan> in all five by <tspan font-weight="700" fill="#d4af37">December 2028</tspan></text>
 
   <g transform="translate(540 274)">
     <rect width="200" height="38" rx="19" fill="#1f1f38" stroke="#d4af37" stroke-width="1.5"/>
