@@ -17,7 +17,7 @@
   <g transform="translate(40 165)">
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
-    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Spanish 🇪🇸</text>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Spanish</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <!-- progress bar -->
@@ -30,7 +30,7 @@
   <g transform="translate(40 233)">
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
-    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Japanese 🇯🇵</text>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Japanese</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>
@@ -42,7 +42,7 @@
   <g transform="translate(40 301)">
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
-    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Chinese 🇨🇳</text>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Chinese</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>
@@ -54,7 +54,7 @@
   <g transform="translate(40 369)">
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
-    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Korean 🇰🇷</text>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">Korean</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>
@@ -66,7 +66,7 @@
   <g transform="translate(40 437)">
     <rect width="1200" height="58" rx="6" fill="#1f1f38"/>
     <rect width="4" height="58" rx="2" fill="#d4af37"/>
-    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">French 🇫🇷</text>
+    <text x="24" y="36" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f0e6d3">French</text>
     <text x="340" y="36" font-family="Inter, sans-serif" font-size="18" fill="#f0e6d3" font-weight="600">A1</text>
     <text x="440" y="36" font-family="Inter, sans-serif" font-size="18" fill="#d4af37" font-weight="700">C1</text>
     <rect x="580" y="22" width="500" height="16" rx="8" fill="#0f0f1e" stroke="#c9b037" stroke-width="0.8"/>
